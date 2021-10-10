@@ -1,6 +1,8 @@
 # Openwrt-config
 My config for compiling https://github.com/coolsnowwolf/lede
 
+To use it, please rename either `config-cn` or `config` as `.config` and put it under `./lede`
+
 ### SSR
 
 In order to compile ssr, you need to add or uncomment 
